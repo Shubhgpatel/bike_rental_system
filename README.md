@@ -1,6 +1,6 @@
 # Bike Rental Demand Prediction
 
-(![Actual vs Predicted](actual_vs_predicted.png))
+([Actual vs Predicted](actual_vs_predicted.png))
 
 ## Overview
 
